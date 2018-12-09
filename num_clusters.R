@@ -9,3 +9,4 @@ df2
 
 mk2 = kmeans(df2, centers=3)
 mk2$centers
+
